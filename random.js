@@ -1,4 +1,4 @@
-//
+//HOLA CAMBIO
 var numero=Math.random();
 if(numero<=0.5){
 console.log('\n'+ numero + ' MENOR que 0,5 \n');
